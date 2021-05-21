@@ -1,0 +1,13 @@
+{
+    "$schema": "https://gist.githubusercontent.com/DavidBeh/8785f20455482f27c549247d7481980a/raw",
+    "begriff" : "Trockensavanne",
+    "defenition" : "Vegetationszone der Tropen. Hat fünf bis sieben aride Monate mit 500 und 1000 mm Niederschlag pro Jahr.",
+    "verboten" : [
+        "Savanne", "Trocken"
+    ],
+    "bild": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tarangire-Natpark800600.jpg/495px-Tarangire-Natpark800600.jpg",
+        "quelle": "https://de.wikipedia.org/wiki/Trockensavanne"
+    }
+
+}

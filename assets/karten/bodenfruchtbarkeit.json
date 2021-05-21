@@ -1,0 +1,13 @@
+{
+    "$schema": "https://gist.githubusercontent.com/DavidBeh/8785f20455482f27c549247d7481980a/raw",
+
+    "begriff" : "Bodenfruchtbarkeit",
+    "defenition" : "Komplexer Ausdruck für alle das Pflanzenwachstum bzw. die Biomasseproduktion beeinflussenden mineralogischen, physikalischen, chemischen und biologischen Bodeneigenschaften und Prozesse.",
+    "verboten" : [
+        "Pflanzen", "Wachsen"
+    ],  
+    "bild": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Crops_Kansas_AST_20010624.jpg/330px-Crops_Kansas_AST_20010624.jpg",
+        "quelle": "https://de.wikipedia.org/wiki/Bew%C3%A4sserungsfeldwirtschaft"
+    }
+}

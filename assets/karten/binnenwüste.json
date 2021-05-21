@@ -1,0 +1,13 @@
+{
+    "$schema": "https://gist.githubusercontent.com/DavidBeh/8785f20455482f27c549247d7481980a/raw",
+
+    "begriff" : "Binnenwüste",
+    "defenition" : "Befinden sich südlich der südlichen oder nördlich der nördlichen Wendekreise",
+    "verboten" : [
+        "Wendekreise"
+    ],
+    "bild": {
+        "url": "https://www.friedrich-verlag.de/fileadmin/_processed_/3/b/csm_37_Binnenwueste_Gobi_Mikhail_Mishchenko_100250974_s_ac4b93bed8.jpg",
+        "quelle": "https://www.friedrich-verlag.de/geographie/klima-wetter/entstehung-von-binnenwuesten/#:~:text=Binnenw%C3%BCsten%20werden%20auch%20als%20kontinentale,beispielsweise%20in%20Mittel%2D%20und%20Zentralasien."
+    }
+}

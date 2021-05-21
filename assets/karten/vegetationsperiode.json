@@ -1,0 +1,10 @@
+{
+    "$schema": "https://gist.githubusercontent.com/DavidBeh/8785f20455482f27c549247d7481980a/raw",
+
+    "begriff" : "Vegetationsperiode",
+    "defenition" : "Ein sich wiederholender Jahresteil, in dem eine Pflanze aktiv wächst und sich entfaltet",
+    "verboten" : [
+        "Jahr"
+    ]
+
+}
